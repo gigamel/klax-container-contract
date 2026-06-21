@@ -1,0 +1,13 @@
+{
+  "name": "klax/container-contract",
+  "description": "Container contract based on PSR",
+  "autoload": {
+    "psr-4": {
+      "Klax\\Container\\Contract\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.0",
+    "psr/container": "^2.0"
+  }
+}
